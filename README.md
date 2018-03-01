@@ -13,7 +13,7 @@ Run the code: `node ./index.js`
 You will be presented with a REPL prompt which exposes a `letters` array.
 This array will contain instances of [`Letter`](https://github.com/ghzmdr/concrete-sign/src/Letter.js`) which can be used to move the servos around.
 
-![Welcome Prompt](https://raw.githubusercontent.com/ghzmdr/concrete-sign/master/docs/img/repl_injectables.jpg)
+![Welcome Prompt](https://raw.githubusercontent.com/ghzmdr/concrete-sign/master/docs/img/repl_injectables.png)
 ___
 #### Current Stage:
 
