@@ -6,4 +6,4 @@ This repo contains code and material for building a shop sign made out of chalk 
 
 
 You need an arduino board with Frimata flashed on it.
-![Rotating smurf with Servo](ghzmdr.github.com/concrete-sign/docs/img/rotating_smurf.jpg)
+![Rotating smurf with Servo](https://raw.githubusercontent.com/ghzmdr/concrete-sign/master/docs/img/rotating_smurf.jpg)
