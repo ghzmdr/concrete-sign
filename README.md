@@ -22,6 +22,6 @@ ___
     **Deliverable**: At least 2 letters in scale made out of cardboard
 
 ___
-![Rotating smurf with Servo](https://raw.githubusercontent.com/ghzmdr/concrete-sign/develop/docs/img/rotating_smurf.jpg)
+![Rotating smurf with Servo](https://raw.githubusercontent.com/ghzmdr/concrete-sign/develop/docs/img/rotating_smurf.gif)
 
 ___
